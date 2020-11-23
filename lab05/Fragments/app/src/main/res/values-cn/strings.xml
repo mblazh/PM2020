@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">碎片</string>
+    <string name="fragment1">片段1</string>
+    <string name="fragment2">片段2</string>
+</resources>
